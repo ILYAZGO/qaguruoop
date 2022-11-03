@@ -280,3 +280,6 @@ tests/allure_results
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm
+
+.DS_Store
+.idea
