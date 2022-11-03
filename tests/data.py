@@ -32,7 +32,7 @@ class User:
     birth_month: str = 'June'
     birth_year: str = '1987'
     subjects: Tuple[Subject] = (Subject.Physics, Subject.English)
-    current_address: str = 'Ankara, main building, 2nd floor, 34'
+    current_address: str = 'Ankara, main building, 2nd floor, 342'
     hobbies: Tuple[Hobby] = (Hobby.Reading, Hobby.Music)
     picture_file: str = 'kitty.jpeg'
     state: str = 'Uttar Pradesh'
