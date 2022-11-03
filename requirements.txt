@@ -1,0 +1,4 @@
+pytest
+selene>=2.0.0b12
+pip >= 22.3
+faker
