@@ -1,9 +1,7 @@
 from typing import Tuple
-
 from selene import have, command
 from selene.support import by
 from selene.support.shared import browser
-
 from tests.data import Subject, Hobby, kemal
 from demoqa_tests.model.controls.datepicker import DatePicker
 from demoqa_tests.model.controls.dropdown import DropDown

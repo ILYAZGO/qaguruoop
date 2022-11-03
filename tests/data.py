@@ -32,7 +32,7 @@ class User:
     birth_month: str = 'June'
     birth_year: str = '1987'
     subjects: Tuple[Subject] = (Subject.Physics, Subject.English)
-    current_address: str = 'Kıbrıs Şehitleri Caddesi, İrfan Boyuer Sokak, Avkıran Apt. No:9 Kat:1 Alsancak,, 35210 Konak/İzmir'
+    current_address: str = 'Ankara, main building, 2nd floor, 34'
     hobbies: Tuple[Hobby] = (Hobby.Reading, Hobby.Music)
     picture_file: str = 'kitty.jpeg'
     state: str = 'Uttar Pradesh'
